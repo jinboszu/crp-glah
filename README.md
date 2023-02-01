@@ -13,6 +13,7 @@ The GLAH and its evaluation heuristic have been referenced in several excellent 
 - Tricoire, F., Scagnetti, J., & Beham, A. (2018). New insights on the block relocation problem. [*Computers & Operations Research*](https://doi.org/10.1016/j.cor.2017.08.010), 89, 127–139.
 - Feillet, D., Parragh, S. N., & Tricoire, F. (2019). A local-search based heuristic for the unrestricted block relocation problem. [*Computers & Operations Research*](https://doi.org/10.1016/j.cor.2019.04.006), 108, 44–56.
 - Boge, S. & Knust, S. (2020). The parallel stack loading problem minimizing the number of reshuffles in the retrieval stage. [*European Journal of Operational Research*](https://doi.org/10.1016/j.ejor.2019.08.005), 280(3), 940–952.
+- Boge, S., & Knust, S. (2023). The blocks relocation problem with item families minimizing the number of reshuffles. [*OR Spectrum*](https://doi.org/10.1007/s00291-022-00703-x).
 
 Known issue:
 - In the evaluation heuristic, the gap utilization process should be carried out to reduce the gap in the assistant stack before executing the assistant GG relocation.
